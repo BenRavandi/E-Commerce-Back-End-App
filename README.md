@@ -45,7 +45,7 @@ Here is a walkthrough video of my application: "https://www.loom.com/share/31fa9
   Contributions are not accepted at the moment
 
   ## Test
-  The following link will take you to my E-Commerce Back End application: <br>
+  The following link will take you to my E-Commerce Back-End Application: <br>
  <a href="https://www.loom.com/share/31fa9b97db9a44ee8662a4830a4272c11">Visit ECommerceBackEndApp!</a>
 
   ## Questions
