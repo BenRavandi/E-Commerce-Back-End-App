@@ -34,7 +34,7 @@ Here is a walkthrough video of my application: "https://www.loom.com/share/31fa9
    ## ScreenShot
    The following displays a snapshot of my E-Commerce Back-End Application:
 
-![Snapshot of my "E-Commerce Back-End App".](../Assets/Screenshot%202024-05-06%20161443.png?raw=true>)
+![Snapshot of my "E-Commerce Back-End App".](./Assets/Screenshot%202024-05-06%20161443.png?raw=true>)
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
